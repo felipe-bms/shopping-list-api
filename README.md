@@ -24,7 +24,7 @@ Uma API REST simples para gerenciar uma lista de compras, desenvolvida com Node.
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/username/shopping-list-api.git
+   git clone https://github.com/felipe-bms/shopping-list-api.git
 2. Navegue até o diretório do projeto:
 
    ```bash
